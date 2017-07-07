@@ -44,13 +44,14 @@ mekanizmadır.
 Jekyll Ruby ile yazılmış olduğu için ilk olarak Ruby kurulmalıdır.Aşağıda işletim sistemlerine göre kurulumu anlatacağım.
 
 <h3>Windows İçin</h3>
-
-Eğer Windows kullanıyorsanız aşağıdaki linkten Ruby'i kurmalısınız.
-Ruby link: https://rubyinstaller.org/downloads/
-Jekyll'ın düzgün bir şekilde çalışabilmesi için yukarıdaki linkten Development Kit'i indirmelisiniz.
-Development Kit'i indirip çalıştırdıktan sonra dosyaları bir yere çıkartmanızı isteyecektir.
-Benim önerim C:\\DevKit buraya kurmanızdır.Bunun sebebi ise Komut İstemi(Namıdeğer cmd) de çalışırken zorlanmamamız.
-Dosyalarımızı çıkardıktan sonra cmd yi açalım ve aşağıdakini yazalım.
+<section>
+<p>
+   Eğer Windows kullanıyorsanız aşağıdaki linkten Ruby'i kurmalısınız.<br>
+   Ruby link: https://rubyinstaller.org/downloads/<br>
+   Jekyll'ın düzgün bir şekilde çalışabilmesi için yukarıdaki linkten Development Kit'i indirmelisiniz.<br>
+   Development Kit'i indirip çalıştırdıktan sonra dosyaları bir yere çıkartmanızı isteyecektir.<br>
+   Benim önerim C:\\DevKit buraya kurmanızdır.Bunun sebebi ise Komut İstemi(Namıdeğer cmd) de çalışırken zorlanmamamız.<br>
+   Dosyalarımızı çıkardıktan sonra cmd yi açalım ve aşağıdakini yazalım.<br>
 
 **_cd C:\\DevKit_**
 
@@ -69,3 +70,4 @@ komutunu yazdıktan sonra Ruby'nin kurulumu tamamlandı.Kurulumunun başarılı 
 **_gem -v_**
 
 Versiyon numaraları çıkarsa kurulum başarılıdır.
+</section>
