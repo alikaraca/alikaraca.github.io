@@ -37,7 +37,29 @@ Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu g
 <figcaption><a href="https://jekyllrb.com/">Jekyll</a> ruby ile yazılmış basit ve güçlü bir altyapıya sahip olan statik bir site oluşturucudur.Markdown formatında yazdığımız sayfayı statik HTML sayfasına dönüştürür.Jekyll Github Pages tarafından desteklenen bir mekanizmadır.
 
 ## **Jekyll Kurulumu**
+Jekyll Ruby ile yazılmış olduğu için ilk olarak Ruby kurulmalıdır.Aşağıda işletim sistemlerine göre kurulumu anlatacağım. 
+#**Windows İçin**
+Eğer Windows kullanıyorsanız aşağıdaki linkten Ruby'i kurmalısınız.
+Ruby link: https://rubyinstaller.org/downloads/
+Jekyll'ın düzgün bir şekilde çalışabilmesi için yukarıdaki linkten Development Kit'i indirmelisiniz.
+Development Kit'i indirip çalıştırdıktan sonra dosyaları bir yere çıkartmanızı isteyecektir.
+Benim önerim C:\\DevKit buraya kurmanızdır.Bunun sebebi ise Komut İstemi(Namıdeğer cmd) de çalışırken zorlanmamamız.
+Dosyalarımızı çıkardıktan sonra cmd yi açalım ve aşağıdakini yazalım.
 
-Windows İçin
+### **cd C:\\DevKit**
 
+Bu dizine girdikten sonra;
 
+### **ruby dk.rb init**
+
+komutunu yazalım.Daha sonra aşağıdaki komutu yazalım;
+
+### **ruby dk.rb install
+
+komutunu yazdıktan sonra Ruby'nin kurulumu tamamlandı.Kurulumunun başarılı olup olmadığını anlamak için cmd yi açarak aşağıdaki komutları yazalım.
+
+### **ruby -v
+
+### **gem -v 
+
+Versiyon numaraları çıkarsa kurulum başarılıdır.
