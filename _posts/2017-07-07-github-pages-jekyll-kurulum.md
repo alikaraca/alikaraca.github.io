@@ -14,14 +14,16 @@ Github, kullanıcılarına Github Depoları(Repositories) üzerinden yönetilebi
 
 Github pages kurulumu için ilk olarak repository oluşturun ve **_kullanıcıisminiz.github.io_** olarak ayarlayın.
 <figure class="third">
-	<img src="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/github%20pages.png">
+	<img src="/assets/img/github pages.png">
 </figure>
 <figure>
-<a href="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/github%20pages.png"><img src="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/github%20pages.png"></a>
+   <a href="/assets/img/github pages.png">
+   <img src="/assets/img/github pages.png"></a>
 </figure>
  
 Daha sonra deneme yapmak için home.html dosyasını ekleyelim ve içini aşağıdaki şekilde dolduralım.
 <figure>
-    <a href="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/home.png"><img                                           src="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/home.png"></a>
+    <a href="/assets/img/home.png"><img                                           
+    src="/assets/img/home.png"></a>
 </figure>
  
