@@ -39,7 +39,7 @@ Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu g
 oluşturucudur.Markdown formatında yazdığımız sayfayı statik HTML sayfasına dönüştürür.Jekyll Github Pages tarafından desteklenen bir
 mekanizmadır.
 
-## **Jekyll Kurulumu**
+<h1>Jekyll Kurulumu</h1>
 
 Jekyll Ruby ile yazılmış olduğu için ilk olarak Ruby kurulmalıdır.Aşağıda işletim sistemlerine göre kurulumu anlatacağım.
 
