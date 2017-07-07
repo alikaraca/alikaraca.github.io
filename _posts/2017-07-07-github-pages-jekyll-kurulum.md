@@ -3,7 +3,7 @@ layout: post
 title: "Github Pages ve Jekyll Kurulumu"
 date: 2017-07-07
 excerpt: "Github Pages ve Jekyll"
-tags: [github pages, jekyll, blog]
+tags: [github pages, jekyll, github pages ve jekyll kurulumu]
 comments: true
 ---
 ## **Github Pages Nedir?**
