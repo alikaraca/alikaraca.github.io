@@ -14,5 +14,8 @@ Github pages kurulumu için ilk olarak repository oluşturun ve **_kullanıcıis
 <a herf="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/github%20pages.png"><img src="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/github%20pages.png"></a>
 </figure>
  
-Daha sonra deneme yapmak için home.html dosyasını ekleyelim ve içini **<h1>Github Pages denemesi</h1>** ile dolduralım.
- (https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/home.png)
+Daha sonra deneme yapmak için home.html dosyasını ekleyelim ve içini aşağıdaki şekilde dolduralım.
+<figure>
+<a herf="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/home.png"><img src="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/home.png"></a>
+</figure>
+ 
