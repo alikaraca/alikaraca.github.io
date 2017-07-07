@@ -19,7 +19,7 @@ Github pages kurulumu için ilk olarak repository oluşturun ve **_kullanıcıis
    <img src="/assets/img/github pages.png"></a>
 </figure>
  
-Daha sonra deneme yapmak için home.html dosyasını ekleyelim ve içini aşağıdaki şekilde dolduralım.
+Daha sonra deneme yapmak için index.html dosyasını ekleyelim ve içini aşağıdaki şekilde dolduralım.
 <figure>
     <a href="/assets/img/home.png"><img                                           
     src="/assets/img/home.png"></a>
