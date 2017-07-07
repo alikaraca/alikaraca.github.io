@@ -72,5 +72,9 @@ ruby -v
 gem -v
 {% endhighlight %}
 
-Versiyon numaraları çıkarsa kurulum başarılıdır.
-
+Versiyon numaraları çıkarsa kurulum başarılıdır.<br>
+Ruby ve RubyGem kurulumu tamamlandıktan sonra şimdi sıra Jekyll kurulumuna geldi.Jekyll kurulumunu yapmak için cmd yi açarak aşağıdaki komutu yazmamız gerekli;
+{% highlight html %}
+gem install jekyll
+{% endhighlight %}
+Ve Jekyll kurulumunu tamamladık.
