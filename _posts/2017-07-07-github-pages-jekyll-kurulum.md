@@ -52,14 +52,18 @@ Jekyll Ruby ile yazılmış olduğu için ilk olarak Ruby kurulmalıdır.Aşağ�
    Benim önerim C:\\DevKit buraya kurmanızdır.Bunun sebebi ise Komut İstemi(Namıdeğer cmd) de çalışırken zorlanmamamız.<br>
    Dosyalarımızı çıkardıktan sonra cmd yi açalım ve aşağıdakini yazalım.<br>
 
-<b><i>cd C:\\DevKit</i></b><br>
-
+{% highlight html %}
+cd C:\\DevKit
+{% endhighlight %}
 Bu dizine girdikten sonra;<br>
-
-<b><i>ruby dk.rb init</i></b><br>
+{% highlight html %}
+ruby dk.rb init
+{% endhighlight %}
 
 komutunu yazalım.Daha sonra aşağıdaki komutu yazalım;<br>
-<b><i>ruby dk.rb install</i></b><br>
+{% highlight html %}
+ruby dk.rb install
+{% endhighlight %}
 komutunu yazdıktan sonra Ruby'nin kurulumu tamamlandı.Kurulumun başarılı olup olmadığını anlamak için cmd yi açarak aşağıdaki komutları yazalım.<br>
 
 
@@ -67,9 +71,6 @@ komutunu yazdıktan sonra Ruby'nin kurulumu tamamlandı.Kurulumun başarılı ol
 ruby -v
 gem -v
 {% endhighlight %}
-<b><i>ruby -v</i></b><br>
-<b><i>gem -v</i></b><br>
-
 
 Versiyon numaraları çıkarsa kurulum başarılıdır.
 
