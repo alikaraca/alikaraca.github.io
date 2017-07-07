@@ -46,7 +46,7 @@ Jekyll Ruby ile yazılmış olduğu için ilk olarak Ruby kurulmalıdır.Aşağ�
 <section>
 <p>
    Eğer Windows kullanıyorsanız aşağıdaki linkten Ruby'i kurmalısınız.<br>
-   Ruby link: https://rubyinstaller.org/downloads/<br>
+   Ruby link: <a href="https://rubyinstaller.org/downloads">Ruby</a>/<br>
    Jekyll'ın düzgün bir şekilde çalışabilmesi için yukarıdaki linkten Development Kit'i indirmelisiniz.<br>
    Development Kit'i indirip çalıştırdıktan sonra dosyaları bir yere çıkartmanızı isteyecektir.<br>
    Benim önerim C:\\DevKit buraya kurmanızdır.Bunun sebebi ise Komut İstemi(Namıdeğer cmd) de çalışırken zorlanmamamız.<br>
