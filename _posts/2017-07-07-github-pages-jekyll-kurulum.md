@@ -6,11 +6,11 @@ excerpt: "A ton of text to test readability."
 tags: [github pages, jekyll, blog]
 comments: true
 ---
-**Github Pages Nedir?**
+## **Github Pages Nedir?**
 
 Github, kullanıcılarına Github Depoları(Repositories) üzerinden yönetilebilen hosting sağlamaktadır.En önemlisi de bunu ücretsiz sağlamaktadır.Eğer kendi blog sitenizi kurmak istiyorsanız ve hosting için para vermek istemiyorsanız github pages'i kullanabilirsiniz.
 
-**Github Pages Kurulumu**
+## **Github Pages Kurulumu**
 
 Github pages kurulumu için ilk olarak repository oluşturun ve **_kullanıcıisminiz.github.io_** olarak ayarlayın.
 
@@ -32,10 +32,12 @@ Buradan sonra da aşağıdan commit new file butonuna tıklayarak dosyamızı ol
 </figure>
 Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu geçelim.
 
-**Jekyll Nedir?**
+## **Jekyll Nedir?**
 
 <figcaption><a href="https://jekyllrb.com/">Jekyll</a> ruby ile yazılmış basit ve güçlü bir altyapıya sahip olan statik bir site oluşturucudur.Markdown formatında yazdığımız sayfayı statik HTML sayfasına dönüştürür.Jekyll Github Pages tarafından desteklenen bir mekanizmadır.
 
-**Jekyll Kurulumu**
+## **Jekyll Kurulumu**
+
+Windows İçin
 
 
