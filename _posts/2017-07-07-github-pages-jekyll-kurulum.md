@@ -21,8 +21,8 @@ Github pages kurulumu için ilk olarak repository oluşturun ve **_kullanıcıis
  
 Daha sonra deneme yapmak için index.html dosyasını ekleyelim ve içini aşağıdaki şekilde dolduralım.
 <figure>
-    <a href="/assets/img/home.png"><img                                           
-    src="/assets/img/home.png"></a>
+    <a href="/assets/img/index.png"><img                                           
+    src="/assets/img/index.png"></a>
 </figure>
 Buradan sonra da aşağıdan commit new file butonuna tıklayarak dosyamızı oluşturmuş olduk.
 Şimdi de tarayıcınızın url bölümüne **_kullanıcıisminiz.github.io_** yazarak sitenizi test edebilirsiniz.
