@@ -66,8 +66,10 @@ komutunu yazdıktan sonra Ruby'nin kurulumu tamamlandı.Kurulumunun başarılı 
 ```bash
 ruby -v
 ```
+
 ```bash
 gem -v
 ```
+
 Versiyon numaraları çıkarsa kurulum başarılıdır.
 
