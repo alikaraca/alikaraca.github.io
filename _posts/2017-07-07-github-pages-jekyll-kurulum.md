@@ -13,6 +13,11 @@ Github, kullanıcılarına Github Depoları(Repositories) üzerinden yönetilebi
 **###Github Pages Kurulumu**
 
 Github pages kurulumu için ilk olarak repository oluşturun ve **_kullanıcıisminiz.github.io_** olarak ayarlayın.
+{% highlight html %}
+<figure class="third">
+	<img src="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/github%20pages.png">
+</figure>
+{% endhighlight %}
 <figure>
 <a href="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/github%20pages.png"><img src="https://github.com/alikaraca/alikaraca.github.io/blob/master/assets/img/github%20pages.png"></a>
 </figure>
