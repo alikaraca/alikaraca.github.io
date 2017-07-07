@@ -32,7 +32,7 @@ Buradan sonra da aşağıdan commit new file butonuna tıklayarak dosyamızı ol
 </figure>
 Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu geçelim.
 
-## **Jekyll Nedir?**
+<h2>Jekyll Nedir?</h2>
 
 <figcaption><a href="https://jekyllrb.com/">Jekyll</a> ruby ile yazılmış basit ve güçlü bir altyapıya sahip olan statik bir site
 
