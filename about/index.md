@@ -6,7 +6,7 @@ date: 2017-07-07
 comments: false
 ---
 <figure>
-  <a href="/assets/img/18193854_10210907879350702_8945355905434897159_n.jpg"><img src="/assets/img/18193854_10210907879350702_8945355905434897159_n.jpg"></a>
+  <a href="/assets/img/hakkımda.png"><img src="/assets/img/hakkımda.png"></a>
 </figure>
 
 # Merhaba!
