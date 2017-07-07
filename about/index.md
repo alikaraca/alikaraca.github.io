@@ -1,24 +1,14 @@
 ---
 layout: page
 title: Hakkımda
-tags: [about, Jekyll, theme, moon]
+tags: [about, Jekyll,hakkımda]
 date: 2017-07-07
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+# Merhaba!
+Ben Ali İhsan KARACA
+Süleyman Demirel Üniversitesinde Bilgisayar Mühendisliği bölümünde okumaktayım(Ocakta mezunum inşaallah :D).Kullandığım programlama dillerinden bahsedeyim.Java, Python, Android dillerini kullanmaktayım.Veitabanı olarakta MySQL ve SQLite kullanmaktayım.Öncelikle neler yapacağımdan bahsedeyim.sayfamda teknolojik gelişmeleri ve kullandığım dillerle yazdığım programları paylaşacağım.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
 ## Preview
 
