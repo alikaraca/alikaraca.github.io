@@ -34,8 +34,10 @@ Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu g
 
 ## **Jekyll Nedir?**
 
-<figcaption><a href="https://jekyllrb.com/">Jekyll</a> ruby ile yazılmış basit ve güçlü bir altyapıya sahip olan statik bir site oluşturucudur.Markdown formatında yazdığımız sayfayı statik HTML sayfasına dönüştürür.Jekyll Github Pages tarafından desteklenen bir mekanizmadır.
+<figcaption><a href="https://jekyllrb.com/">Jekyll</a> ruby ile yazılmış basit ve güçlü bir altyapıya sahip olan statik bir site
 
+oluşturucudur.Markdown formatında yazdığımız sayfayı statik HTML sayfasına dönüştürür.Jekyll Github Pages tarafından desteklenen bir
+mekanizmadır.
 
 ## **Jekyll Kurulumu**
 
