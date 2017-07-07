@@ -36,6 +36,7 @@ Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu g
 
 <figcaption><a href="https://jekyllrb.com/">Jekyll</a> ruby ile yazılmış basit ve güçlü bir altyapıya sahip olan statik bir site oluşturucudur.Markdown formatında yazdığımız sayfayı statik HTML sayfasına dönüştürür.Jekyll Github Pages tarafından desteklenen bir mekanizmadır.
 
+
 ## **Jekyll Kurulumu**
 
 Jekyll Ruby ile yazılmış olduğu için ilk olarak Ruby kurulmalıdır.Aşağıda işletim sistemlerine göre kurulumu anlatacağım.
