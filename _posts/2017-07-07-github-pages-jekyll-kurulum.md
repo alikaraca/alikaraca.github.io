@@ -40,7 +40,7 @@ Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu g
 
 Jekyll Ruby ile yazılmış olduğu için ilk olarak Ruby kurulmalıdır.Aşağıda işletim sistemlerine göre kurulumu anlatacağım.
 
-#**Windows İçin**
+# **Windows İçin**
 
 Eğer Windows kullanıyorsanız aşağıdaki linkten Ruby'i kurmalısınız.
 Ruby link: https://rubyinstaller.org/downloads/
@@ -57,12 +57,12 @@ Bu dizine girdikten sonra;
 
 komutunu yazalım.Daha sonra aşağıdaki komutu yazalım;
 
-### **ruby dk.rb install
+### **ruby dk.rb install**
 
 komutunu yazdıktan sonra Ruby'nin kurulumu tamamlandı.Kurulumunun başarılı olup olmadığını anlamak için cmd yi açarak aşağıdaki komutları yazalım.
 
-### **ruby -v
+### **ruby -v**
 
-### **gem -v 
+### **gem -v**
 
 Versiyon numaraları çıkarsa kurulum başarılıdır.
