@@ -49,20 +49,20 @@ Development Kit'i indirip çalıştırdıktan sonra dosyaları bir yere çıkart
 Benim önerim C:\\DevKit buraya kurmanızdır.Bunun sebebi ise Komut İstemi(Namıdeğer cmd) de çalışırken zorlanmamamız.
 Dosyalarımızı çıkardıktan sonra cmd yi açalım ve aşağıdakini yazalım.
 
-### **cd C:\\DevKit**
+**_cd C:\\DevKit_**
 
 Bu dizine girdikten sonra;
 
-### **ruby dk.rb init**
+**_ruby dk.rb init_**
 
 komutunu yazalım.Daha sonra aşağıdaki komutu yazalım;
 
-### **ruby dk.rb install**
+**_ruby dk.rb install_**
 
 komutunu yazdıktan sonra Ruby'nin kurulumu tamamlandı.Kurulumunun başarılı olup olmadığını anlamak için cmd yi açarak aşağıdaki komutları yazalım.
 
-### **ruby -v**
+**_ruby -v_**
 
-### **gem -v**
+**_gem -v_**
 
 Versiyon numaraları çıkarsa kurulum başarılıdır.
