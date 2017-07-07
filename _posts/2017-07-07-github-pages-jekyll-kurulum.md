@@ -31,6 +31,7 @@ Buradan sonra da aşağıdan commit new file butonuna tıklayarak dosyamızı ol
    src="/assets/img/dsadadasdas.png"></a>
 </figure>
 Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu geçelim.
+
 **Jekyll Nedir?
 
 Jekyll ruby ile yazılmış basit ve güçlü bir altyapıya sahip olan statik bir site oluşturucudur.Markdown ve Textile formatında yazdığımız sayfayı statik HTML sayfasına dönüştürür.
