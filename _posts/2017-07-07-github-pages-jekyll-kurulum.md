@@ -2,7 +2,7 @@
 layout: post
 title: "Github Pages ve Jekyll Kurulumu"
 date: 2017-07-07
-excerpt: "A ton of text to test readability."
+excerpt: "Github Pages ve Jekyll"
 tags: [github pages, jekyll, blog]
 comments: true
 ---
