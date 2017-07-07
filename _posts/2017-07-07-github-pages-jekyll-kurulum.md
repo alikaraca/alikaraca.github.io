@@ -24,4 +24,9 @@ Daha sonra deneme yapmak için home.html dosyasını ekleyelim ve içini aşağ�
     <a href="/assets/img/home.png"><img                                           
     src="/assets/img/home.png"></a>
 </figure>
- 
+Buradan sonra da aşağıdan commit new file butonuna tıklayarak dosyamızı oluşturmuş olduk.
+Şimdi de tarayıcınızın url bölümüne **_kullanıcıisminiz.github.io_** yazarak sitenizi test edebilirsiniz.
+<figure>
+   <a href="/assets/img/dsadadasdas.png"><img
+   src="/assets/img/dsadadasdas.png"></a>
+</figure>
