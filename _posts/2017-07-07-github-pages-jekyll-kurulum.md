@@ -6,7 +6,7 @@ excerpt: "A ton of text to test readability."
 tags: [github pages, jekyll, blog]
 comments: true
 ---
-##Github Pages Nedir?
+###**Github Pages Nedir?
 
 Github, kullanıcılarına Github Depoları(Repositories) üzerinden yönetilebilen hosting sağlamaktadır.En önemlisi de bunu ücretsiz sağlamaktadır.Eğer kendi blog sitenizi kurmak istiyorsanız ve hosting için para vermek istemiyorsanız github pages'i kullanabilirsiniz.
 ##Github Pages Kurulumu
