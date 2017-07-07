@@ -60,13 +60,9 @@ komutunu yazalım.Daha sonra aşağıdaki komutu yazalım;<br>
 <b><i>ruby dk.rb install</i></b><br>
 komutunu yazdıktan sonra Ruby'nin kurulumu tamamlandı.Kurulumun başarılı olup olmadığını anlamak için cmd yi açarak aşağıdaki komutları yazalım.<br>
 
-```bash
-ruby -v
-```
+<b><i>ruby -v</i></b><br>
+<b><i>gem -v</i></b><br>
 
-```bash
-gem -v
-```
 
 Versiyon numaraları çıkarsa kurulum başarılıdır.
 
