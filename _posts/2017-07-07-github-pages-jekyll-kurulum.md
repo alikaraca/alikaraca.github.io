@@ -32,10 +32,12 @@ Buradan sonra da aşağıdan commit new file butonuna tıklayarak dosyamızı ol
 </figure>
 Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu geçelim.
 ## Tema Kullanımı
-Tema yapmak için uğraşmak istemeyip hazır tema kullanmak isterseniz.
+HTML, CSS, JavaScript ile uğraşmak istemeyip hazır tema kullanmak isterseniz.
 <figcaption>
 <a href="http://jekyllthemes.org/">Hazır temalar</a> linkine tıklayınız.
 </figcaption>
+Buradan istediğiniz bir temayı seçip indiriniz.Daha sonra da **_kullanıcıisminiz.github.io_** adlı repository'nize yüklemelisiniz.
+Yüklediğiniz dosyaların içinde **_config.yml_** adında bir dosya olacaktır.Onun içini kendinize göre değiştirmelisiniz.Tüm bu ayarlamaları yaptıysanız siteniz hazır durumdadır.
 <h2>Jekyll Nedir?</h2>
 
 <figcaption>
