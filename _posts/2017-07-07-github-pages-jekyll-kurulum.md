@@ -44,11 +44,11 @@ Yüklediğiniz dosyaların içinde **_config.yml_** adında bir dosya olacaktır
    <a href="https://jekyllrb.com/" title="Jekyll">Jekyll</a> ruby ile yazılmış basit ve güçlü bir altyapıya sahip olan statik bir site oluşturucudur.Markdown formatında yazdığımız sayfayı statik HTML sayfasına dönüştürür.Jekyll Github Pages tarafından desteklenen bir mekanizmadır.
 </figcaption>
 
-<h2>Jekyll Kurulumu</h2>
+## Jekyll Kurulumu
 
 Jekyll Ruby ile yazılmış olduğu için ilk olarak Ruby kurulmalıdır.Aşağıda işletim sistemlerine göre kurulumu anlatacağım.
 
-<h3>Windows İçin</h3>
+### Windows İçin
 <section>
 <p>
    Eğer Windows kullanıyorsanız aşağıdaki linkten Ruby'i kurmalısınız.<br>
