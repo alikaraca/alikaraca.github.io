@@ -31,7 +31,11 @@ Buradan sonra da aşağıdan commit new file butonuna tıklayarak dosyamızı ol
    src="/assets/img/dsadadasdas.png"></a>
 </figure>
 Gördüğünüz gibi sitemiz aktif hale gelmiştir.Şimdi de jekyll kurulumunu geçelim.
-
+## Tema Kullanımı
+Tema yapmak için uğraşmak istemeyip hazır tema kullanmak isterseniz.
+<figcaption>
+<a href="http://jekyllthemes.org/">Hazır temalar</a> linkine tıklayınız.
+</figcaption>
 <h2>Jekyll Nedir?</h2>
 
 <figcaption>
