@@ -9,8 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://alikaraca.github.io
-# Google services
-google_analytics:  UA-102255464-1
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -31,9 +30,9 @@ disqus_shortname:   alikaraca
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-102255464-1
   #verify:
   #ad-client:
   #ad-slot:
