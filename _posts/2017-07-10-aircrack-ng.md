@@ -110,4 +110,4 @@ TTNET-Airties.cap:Bu da paketlerimizi tutan dosyamız.
 </figure>
 ve sonuç eğer şifre wordlistinizde var ise şifreyi buluyor.
 Bu yazımda bu kadar arkadaşlar diğer yazımda görüşmek üzere.
-
+Video anlatımı: <iframe width="560" height="315" src="https://www.youtube.com/watch?v=n2TAiHvsvr0" frameborder="0"> </iframe>
