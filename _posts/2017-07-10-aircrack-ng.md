@@ -17,8 +17,11 @@ sezebilen bir araçtır.Yani kısacası Wireless Hacking Tools olarak adlandıra
 ## Aircrack-ng İle Neler Yapabiliriz?
 
 -Ağ trafiğini sezebiliriz.
+
 -Dinlediğimiz ağdan paket yakalayabiliriz.
+
 -Modeme bağlı olan bir aracın modeme bağlanmasını engelleyebiliriz.
+
 -WEP ve WPA şifre kırabiliriz.
 
 
