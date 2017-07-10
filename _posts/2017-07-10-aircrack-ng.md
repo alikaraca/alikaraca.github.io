@@ -112,4 +112,5 @@ ve sonuç eğer şifre wordlistinizde var ise şifreyi buluyor.
 Bu yazımda bu kadar arkadaşlar diğer yazımda görüşmek üzere.
 Video anlatımı: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=n2TAiHvsvr0" frameborder="0"> </iframe>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
