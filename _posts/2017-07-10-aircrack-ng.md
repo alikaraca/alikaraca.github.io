@@ -82,7 +82,7 @@ airodump-ng -w TTNET-Airties -c 11 –bssid 18:28:61:F9:5C:8D mon0
     src="/assets/img/ağ liste2.png"></a>
 </figure>
 Şimdi ağı dinlemeye aldık.Gördüğünüz gibi 4 tane station adresimiz var.Bunlar ağımızı bağlı bulunan telefon,bilgisayar vb. aletlerim mac adresleridir.
-Ağın şifresini çözebilmemiz için bir paket yakalamamız lazım.Bunun içinde ağda bir hareketlilik olması gereklidir.O yüzden seçtiğimiz bir bilgisayar ya da telefonun ağ ile bağlantısını bir süre kesip otomatik bağlanmasını sağlamalıyız.Bunun için aşağıdaki kod satırını yazmalıyız.
+Ağın şifresini çözebilmemiz için bir paket yakalamamız lazım.Bunun içinde ağda bir hareketlilik olması gereklidir.O yüzden seçtiğimiz bir bilgisayar ya da telefonun ağ ile bağlantısını bir süre kesip otomatik bağlanmasını sağlamalıyız.Başka bir terminal açarak aşağıdaki kod satırını yazmalıyız.Tabi ki önce root olmamız gerekmektedir.
 {% highlight html %}
 aireplay-ng -0 0 -a "ağın mac adresi" -c "hedef mac adresi" –ignore-negative-one mon0
 {% endhighlight %}
