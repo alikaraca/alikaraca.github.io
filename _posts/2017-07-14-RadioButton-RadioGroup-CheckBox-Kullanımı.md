@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Android'de RadioButton, RadioButtonGroup ve CheckBox Kullanımı"
+title: "Android'de RadioButton, RadioGroup ve CheckBox Kullanımı"
 date: 2017-07-14
-excerpt: "RadioButton,RadioButtonGroup ve CheckBox Kullanımı"
-tags: [radiobutton,radiobuttongroup,checkbox,android]
+excerpt: "RadioButton,RadioGroup ve CheckBox Kullanımı"
+tags: [radiobutton,radiogroup,checkbox,android]
 comments: true
 ---
 # RadioButton,RadioGroup,CheckBox
