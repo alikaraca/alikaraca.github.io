@@ -40,7 +40,7 @@ layout: compress
                 </div>
             </div>
         </div>
-          {% include advertisement.html % }
+          
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
     </header>
       
@@ -49,4 +49,5 @@ layout: compress
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     {% endif %}
 </body>
+ {% include advertisement.html % }
 </html>
