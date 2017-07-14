@@ -21,4 +21,4 @@ activity_main.xml
 
 MainActivity.java
 
-<script src="<script src="https://gist.github.com/alikaraca/9462258e6fde13afc38edbbe66eb6eef.js"></script>"></script>">
+<script src="https://gist.github.com/alikaraca/9462258e6fde13afc38edbbe66eb6eef.js"></script>">
