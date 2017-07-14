@@ -18,3 +18,7 @@ göre arka plan rengini kırmızı veya siyah yapacaktır.
 
 activity_main.xml
 <script src="<script src="https://gist.github.com/alikaraca/c810d711d06e60bfbfdb1f20b3a1dd8f.js"></script>"></script>
+
+MainActivity.java
+
+<script src="<script src="<script src="https://gist.github.com/alikaraca/9462258e6fde13afc38edbbe66eb6eef.js"></script>"></script>"></script>
