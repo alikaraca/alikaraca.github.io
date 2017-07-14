@@ -34,12 +34,13 @@ layout: compress
                     </a>
                 </div>
                 {{ content }}
+                  {% include advertisement.html % }
                 <div class="entry-meta">
                 {% include meta.html %}
                 </div>
             </div>
         </div>
-        {% include advertisements.html %}
+        
         {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
     </header>
       
