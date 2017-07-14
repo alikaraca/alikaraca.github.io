@@ -19,3 +19,13 @@ activity_main.xml
 
 MainActivity.java
 <script src="https://gist.github.com/alikaraca/84c7b78fb79af008c0a78700003d3a36.js"></script>
+
+RadioButton ve RadioButtonGroup Örneği
+
+activity_main.xml
+
+<script src="https://gist.github.com/alikaraca/88e83d7240db6a2dbfb68c7cd9f09635.js"></script>
+
+MainActivity.java
+
+<script src="https://gist.github.com/alikaraca/9f60cfcc2cf518e66a6af675aaaf3926.js"></script>
