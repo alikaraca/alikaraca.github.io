@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android ToggleButton ve Switch Kullanimi"
+title: "Android ToggleButton ve Switch Kullanımı"
 date: 2017-07-14
 excerpt: "ToggleButton ve Switch"
 tags: [togglebutton,switch,android]
