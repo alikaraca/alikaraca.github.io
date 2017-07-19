@@ -6,7 +6,6 @@ excerpt: "ToggleButton ve Switch"
 tags: [togglebutton,switch,android]
 comments: true
 ---
-# Android Studio ToggleButton ve Switch Kullanımı
 
 Arkadaşlar bugün sizlere ToggleButton ve Switch kullanımını anlatacağım ve bunlarla ilgili küçük örnekler göstereceğim.
 
