@@ -46,10 +46,8 @@ gibi sınıflar mevcuttur.ç
 
 ## Veritabanının Oluşturulması
 
-Veritabanı oluşturmak için iki yöntem bulunmaktadır.Bunlardan birincisi kod yoluyla çalışma zamanında oluşturmak.İkincisi ise 3.parti bir araç
-kullanılarak oluşturulan veritabanının projede kullanılmasıdır.Ben ise şimdi ilk yöntem ile yaptığım bir programı anlatacağım.
-Bu programda 2 edittext bulunmakta bunlara girdiğimiz iki değer ekle butonu kullanılarak veritabanına eklenmekte.Sil butonu ile edittextlere silmek 
-istediğimiz değerleri giriyoruz ve girdiğimiz değeri veritabanından silmekte.Listele butonu ile de veritabanında bulunan değerleri listeliyoruz.
+Veritabanı oluşturmak için iki yöntem bulunmaktadır.Bunlardan birincisi kod yoluyla çalışma zamanında oluşturmak.İkincisi ise 3.parti bir araç kullanılarak oluşturulan veritabanının projede kullanılmasıdır.Ben ise şimdi ilk yöntem ile yaptığım basit bir programı anlatacağım.
+Bu programda 2 edittext bulunmakta bunlara girdiğimiz iki değer ekle butonu kullanılarak veritabanına eklenmekte.Sil butonu ile edittextlere silmek istediğimiz değerleri giriyoruz ve girdiğimiz değeri veritabanından silmekte.Listele butonu ile de veritabanında bulunan değerleri listeliyoruz.
 
 activity_main.xml
 <script src="https://gist.github.com/alikaraca/3792636b36f96ba74ffb5498e073699d.js"></script>
@@ -60,4 +58,9 @@ MainActivity.java
 Veritabanı.java
 <script src="https://gist.github.com/alikaraca/71830c4b4e95a6f9e2b5981d80dfe184.js"></script>
 
+Uygulamayı çalıştırdığımızda bu görüntü ortaya çıkmakta değerleri girip önce ekle butonuna tıklıyoruz.Daha sonra listele butonuna tıklıyoruz ve listview imize veritabanında ki değerler yazılıyor.Eğer bir değeri silmek istiyorsak sil değeri girip sil butonuna tıklamalıyız.
 
+<figure>
+    <a href="/assets/img/android.png"><img                                           
+    src="/assets/img/android.png"></a>
+</figure>
