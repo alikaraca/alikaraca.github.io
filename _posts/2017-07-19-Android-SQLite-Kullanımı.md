@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Android Lokal Veritabanı Olarak SQLite"
-date: 2017-07-14
+date: 2017-07-19
 excerpt: "Android SQLite"
 tags: [SQLite,veritabanı,android]
 comments: true
