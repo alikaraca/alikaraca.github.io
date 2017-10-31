@@ -1,0 +1,16 @@
+---
+layout: post
+title: "ReactJS'ye Giriş"
+date: 2017-10-31
+excerpt: "ReactJS'ye Giriş"
+tags: [reactjs]
+comments: true
+---
+# ReactJS Nedir?
+
+  ReactJS, Facebook'taki bir grup geliştirici tarafından geliştirilmiş ve halihazırda geliştirilen bir kullanıcı arayüzü kütüphanesidir.
+  Kullanıcı arayüzü geliştirmede en çok MVC(ModeView-Controller) tasarım deseni kullanılmaktadır. React bu tasarım deseninin view kısmını oluşturmaktadır
+  Ama kısa sürede bu kadar popüler olmasının arkasında yatan sebepler nelerdir?
+  Öncelikle performans konusuna değinelim. React'ın önemli avantajlarından biri state değişkenlerini tespit ederek arayüzde belli değişiklikleri kendisinin yapmasıdır.
+  
+  
