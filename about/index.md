@@ -5,9 +5,6 @@ tags: [about, Jekyll,hakkımda]
 date: 2017-07-07
 comments: false
 ---
-<figure>
-  <a href="/assets/img/hakkımda.png"><img src="/assets/img/hakkımda.png"></a>
-</figure>
 
 <!--# Merhaba!
 Ben Ali İhsan KARACA
